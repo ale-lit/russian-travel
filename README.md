@@ -11,4 +11,4 @@
 * Использованы медиа запросы
 
 
-Ссылка на проект: https://zeldor.github.io/russian-travel/
+Ссылка на проект: https://ale-lit.github.io/russian-travel/
