@@ -18,8 +18,9 @@
 Ссылка на проект: https://ale-lit.github.io/russian-travel/
 
 ---
+# Проект: «Путешествие по России»
 
-
+#
 ---
 
 Ссылка на проект: https://ale-lit.github.io/russian-travel/
@@ -27,7 +28,6 @@
 ---
 #
 
-| | | |
 |-|-|-|
 |__Bold Key__| Value1 |
 | Normal Key | Value2 |
