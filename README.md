@@ -10,6 +10,8 @@ https://ale-lit.github.io/russian-travel/
 
 </div>
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 ## Используемые технологии
 
 * Вёрстка и файловая структура проекта реализованы по методологии [БЭМ (Nested)](https://ru.bem.info/methodology/filestructure/#nested)
