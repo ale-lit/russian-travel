@@ -17,7 +17,8 @@ https://ale-lit.github.io/russian-travel/
 * Для адаптивности интерфейса использована "резиновая" верстка, медиа запросы и функция `calc()`
 
 ## Макет в Figma
-https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0
+- Основной макет, по которому была выполнена работа: https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0
+- Усложненная версия макета, из которой были внедрены еще два блока: https://www.figma.com/file/5PEoxONEq3Vtr9qQa8jwYD/Russia-%2F-desktop-%2B-mobile-(Copy)?node-id=0%3A1
 
 ## Чеклист по работе
 https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html
