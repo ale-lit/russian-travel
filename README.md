@@ -15,8 +15,7 @@
 https://ale-lit.github.io/russian-travel/
 
 
-| __Bold Key__ | Value1 |
-| Normal Key | Value2 |
+<center>Centered text</center>
 
 
 
