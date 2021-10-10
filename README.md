@@ -24,4 +24,6 @@
 Ссылка на проект: https://ale-lit.github.io/russian-travel/
 ---
 
-------
+[]()  | 
+------|------
+Row 1 | row 2
