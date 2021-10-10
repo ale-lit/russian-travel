@@ -13,6 +13,7 @@
 * Для построения сеток использованы технологии FlexBox и GridLayout
 * Использованы медиа запросы
 
+
 ---
 
 Ссылка на проект: https://ale-lit.github.io/russian-travel/
@@ -28,6 +29,7 @@
 ---
 #
 
+| | | |
 |-|-|-|
 |__Bold Key__| Value1 |
 | Normal Key | Value2 |
