@@ -18,8 +18,8 @@ https://ale-lit.github.io/russian-travel/
 
 ## Дополнительная информация
 
-### Ссылка на макет в Figma:
+### Макет в Figma:
 https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0
 
-### Ссылка на чеклист:
+### Чеклист по работе:
 https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html
