@@ -14,19 +14,27 @@
 * Использованы медиа запросы
 
 
+----
+Ссылка на проект: https://ale-lit.github.io/russian-travel/
+----
+
+
 ---
 
 Ссылка на проект: https://ale-lit.github.io/russian-travel/
 
 ---
+
+
 # Проект: «Путешествие по России»
 
-#
----
 
+
+---
 Ссылка на проект: https://ale-lit.github.io/russian-travel/
-
 ---
+
+
 #
 
 | | | |
