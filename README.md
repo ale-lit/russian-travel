@@ -11,9 +11,11 @@
 ---
 
 <div align="center">
+
 Ссылка на проект:
 --- |
 https://ale-lit.github.io/russian-travel/
+
 </div>
 
 
