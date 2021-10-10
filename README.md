@@ -16,8 +16,8 @@ https://ale-lit.github.io/russian-travel/
 * Для построения сеток использованы технологии FlexBox и GridLayout
 * Для адаптивности интерфейса использована "резиновая" верстка, медиа запросы и функция `calc()`
 
-## Ссылка на макет
+## Ссылка на макет в Figma
 https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0
 
-## Ссылка на чеклист
+### Ссылка на чеклист
 https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html
