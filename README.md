@@ -21,9 +21,13 @@
 
 
 ---
-Ссылка на проект: https://ale-lit.github.io/russian-travel/
----
 
-[]()  | 
-------|------
-Row 1 | row 2
+Ссылка на проект: https://ale-lit.github.io/russian-travel/
+
+---
+#
+
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
