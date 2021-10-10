@@ -1,3 +1,5 @@
+Ссылка на проект: https://ale-lit.github.io/russian-travel/
+
 # Проект: Путешествие по России
 
 ### Обзор
@@ -9,6 +11,3 @@
 * Вёрстка и файловая структура проекта реализована по методологии [БЭМ (Nested)](https://ru.bem.info/methodology/filestructure/#nested)
 * Для построения сеток использованы технологии FlexBox и GridLayout
 * Использованы медиа запросы
-
-
-Ссылка на проект: https://ale-lit.github.io/russian-travel/
