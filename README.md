@@ -27,6 +27,10 @@ https://ale-lit.github.io/russian-travel/
   my text here.
 </div>
 
+<p align="justify">
+  Lorem ipsum
+</p>
+
 
 
 
