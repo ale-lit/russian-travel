@@ -10,27 +10,11 @@
 
 ---
 
+<div align="center">
 Ссылка на проект:
 --- |
 https://ale-lit.github.io/russian-travel/
-
-
-<p align="center">center</p> 
-
-
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-| I'm centered! | <!-- cell gets column's alignment -->
-
-
-<div align="center">
-  my text here.
 </div>
-
-<p align="justify">
-  Lorem ipsum
-</p>
-
 
 
 
