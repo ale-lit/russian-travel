@@ -15,7 +15,17 @@
 https://ale-lit.github.io/russian-travel/
 
 
-<center>Centered text</center>
+<p align="center">center</p> 
+
+
+|| <!-- empty table header -->
+|:--:| <!-- table header/body separator with center formatting -->
+| I'm centered! | <!-- cell gets column's alignment -->
+
+
+<div align="center">
+  my text here.
+</div>
 
 
 
