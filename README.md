@@ -1,16 +1,15 @@
 # Проект: «Путешествия по России»
 
-<div align="center"><a href="https://ale-lit.github.io/russian-travel/"><img src="https://github.com/ale-lit/ale-lit/blob/main/screens/russian-travel.jpg" alt="Путешествия по России"></a></div>
+<div align="center">
+  
+▼ ▼ ▼
+------------- |
+<a href="https://ale-lit.github.io/russian-travel/"><img src="https://github.com/ale-lit/ale-lit/blob/main/screens/russian-travel.jpg" alt="Путешествия по России"></a>
+https://ale-lit.github.io/russian-travel/
+  
+</div>
 
 Данный проект был реализован в рамках обучения, на курсе по Веб-разработке в Яндекс Практикуме. Это финальный проект по верстке на данном курсе, для красивого и удобного отображения на всех возможных устройствах, в нем применены все последние наработки адаптивного дизайна в Веб-строительстве.
-
-<div align="center">
-
-Ссылка на проект:
---- |
-https://ale-lit.github.io/russian-travel/
-
-</div>
 
 ## Используемые технологии
 
