@@ -5,7 +5,7 @@
 ▼ ▼ ▼
 ------------- |
 <a href="https://ale-lit.github.io/russian-travel/"><img src="https://github.com/ale-lit/ale-lit/blob/main/screens/russian-travel.jpg" alt="Путешествия по России"></a>
-https://ale-lit.github.io/russian-travel/
+| <div align="center">**https://ale-lit.github.io/russian-travel/**</div> |
   
 </div>
 
